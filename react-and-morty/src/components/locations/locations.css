@@ -1,0 +1,29 @@
+.ram_locations-container {
+    display: flex;
+    flex-flow: wrap;
+    width: 70%;
+    height: 70%;
+    background: rgb(255, 255, 204);
+    border-radius: 5px;
+    border: 1px solid rgb(0, 119, 255);
+}
+
+.ram_locations-container_card{
+    width: 25%;
+    
+}
+
+.ram_locations-container_card h3{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.residents {
+    font-size: 7px;
+}
+
+.ram_locations-title{
+    font-family: 'Creepster', cursive;
+    font-size: 52px;
+    color: #a9f6a4;
+}
